@@ -16,8 +16,13 @@ ___
 The GUID generator in Visual Studio is a bit outdated. Use Better Guid instead!
 
 *How To*
-1. Click the **Tools** menu
-2. Click _External Tools_
-3. Click 'Add'
+1. Select the _Tools_ menu
+2. Select _External Tools_
+3. Click _Add_
+4. _Title_: &Better GUID
+5. _Command_: Enter the path to BetterGUID.exe
+6. Click _OK_
+
+Better GUID will now be an option under the Tools menu (shortcut key: B).
 
 ![Better GUID](https://github.com/CJPrindle/BetterGuid/blob/master/BetterGuid.png "Better GUID")
