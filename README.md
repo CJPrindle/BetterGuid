@@ -15,7 +15,7 @@ ___
 
 ## Add to Visual Studio Tools Menu
 
-The GUID generator in Visual Studio is a bit outdated. Use Better Guid instead!
+The GUID generator in Visual Studio is a bit outdated. Use Better GUID instead!
 
 *How To*
 1. Select the _Tools_ menu
