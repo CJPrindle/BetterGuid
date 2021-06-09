@@ -17,7 +17,7 @@ The GUID generator in Visual Studio is a bit outdated. Use Better Guid instead!
 
 *How To*
 1. Click the **Tools** menu
-2. Click 'External Tools'
+2. Click _External Tools_
 3. Click 'Add'
 
 ![Better GUID](https://github.com/CJPrindle/BetterGuid/blob/master/BetterGuid.png "Better GUID")
