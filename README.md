@@ -9,6 +9,8 @@
 
 The clipboard is automatically updated when a new GUID is generated and each format selection.
 
+![Better GUID](https://github.com/CJPrindle/BetterGuid/blob/master/BetterGuid.png "Better GUID")
+
 ___
 
 ## Add to Visual Studio Tools Menu
@@ -24,5 +26,3 @@ The GUID generator in Visual Studio is a bit outdated. Use Better Guid instead!
 6. Click _OK_
 
 Better GUID will now be an option under the Tools menu (shortcut key: B).
-
-![Better GUID](https://github.com/CJPrindle/BetterGuid/blob/master/BetterGuid.png "Better GUID")
