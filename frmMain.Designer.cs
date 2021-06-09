@@ -53,7 +53,7 @@
             // 
             this.btnNewGuid.AutoSize = true;
             this.btnNewGuid.Font = new System.Drawing.Font("Segoe UI", 10F);
-            this.btnNewGuid.Location = new System.Drawing.Point(370, 350);
+            this.btnNewGuid.Location = new System.Drawing.Point(370, 346);
             this.btnNewGuid.Name = "btnNewGuid";
             this.btnNewGuid.Size = new System.Drawing.Size(113, 38);
             this.btnNewGuid.TabIndex = 0;
