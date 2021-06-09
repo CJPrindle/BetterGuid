@@ -19,8 +19,8 @@ The GUID generator in Visual Studio is a bit outdated. Use Better Guid instead!
 1. Select the _Tools_ menu
 2. Select _External Tools_
 3. Click _Add_
-4. _Title_: &Better GUID
-5. _Command_: Enter the path to BetterGUID.exe
+4. Title: _&Better GUID_
+5. Command: Enter the path to BetterGUID.exe
 6. Click _OK_
 
 Better GUID will now be an option under the Tools menu (shortcut key: B).
