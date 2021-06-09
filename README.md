@@ -9,7 +9,7 @@
 
 The clipboard is automatically updated when a new GUID is generated and each format selection.
 
-![Better GUID](https://github.com/CJPrindle/BetterGuid/blob/master/BetterGuid.png "Better GUID")
+![Better GUID](https://raw.githubusercontent.com/CJPrindle/BetterGuid/master/BetterGuid.png "Better GUID")
 
 ___
 
