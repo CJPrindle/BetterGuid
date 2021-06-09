@@ -1,6 +1,8 @@
 # Better GUID Generator
 
-Copies a random GUID to the clipboard in several formats.
+## Copies a random GUID to the clipboard in several formats.
+
+![Better GUID](https://github.com/CJPrindle/BetterGuid/blob/master/BetterGuid.png "Better GUID")
 
 - Value Only: `20296BA3-5BF4-413C-956D-68F9F83260E3`
 - With Brakets: `{20296BA3-5BF4-413C-956D-68F9F83260E3}`
