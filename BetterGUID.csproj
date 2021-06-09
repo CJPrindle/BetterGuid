@@ -118,5 +118,8 @@
   <ItemGroup>
     <None Include="clipboard.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="BetterGuid.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

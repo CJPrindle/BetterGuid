@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{43A9CB54-A2FC-42CF-A0B1-A532704B38E8}"
 	ProjectSection(SolutionItems) = preProject
 		.editorconfig = .editorconfig
+		BetterGuid.png = BetterGuid.png
 	EndProjectSection
 EndProject
 Global
